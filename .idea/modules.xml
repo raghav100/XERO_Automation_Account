@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automation.xero.iml" filepath="$PROJECT_DIR$/.idea/modules/automation.xero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automation.xero_main.iml" filepath="$PROJECT_DIR$/.idea/modules/automation.xero_main.iml" group="automation.xero" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automation.xero_test.iml" filepath="$PROJECT_DIR$/.idea/modules/automation.xero_test.iml" group="automation.xero" />
+    </modules>
+  </component>
+</project>
