@@ -39,7 +39,7 @@ $ gradle -v
 Step 5. Run the test
 -----------------------
 
-From the project folder start command prompt and type "gradle build" and press enter
+From the project folder start command prompt and type "gradle clean build" and press enter
 
 
 

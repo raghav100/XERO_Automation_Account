@@ -14,6 +14,8 @@ public class BrowserFactory {
         driver = new FirefoxDriver();
 
         return driver;
+
+
     }
 
 }
